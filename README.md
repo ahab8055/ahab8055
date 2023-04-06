@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahab LAtif
 - 👀 I’m interested in MERN Stack, Python/Django, Machine Learning.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Web 3.0
 - 💞️ I’m looking to collaborate on MERN Stack
 - 📫 How to reach me just mail me at muhammadahab8055@gmail.com
 
